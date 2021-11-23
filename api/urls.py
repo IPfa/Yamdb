@@ -36,4 +36,4 @@ router_v1.register('genres', GenreDestroyViewSet, basename='genre')
 
 urlpatterns = [
     path('v1/', include(router_v1.urls)),
-] 
+]
