@@ -1,5 +1,6 @@
 # yamdb_final
 yamdb_final
+Финальная сборка доступна по адресу: 51.250.27.192
 
 ![yamdb_final workflow](https://github.com/IPfa/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 
