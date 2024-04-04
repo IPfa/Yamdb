@@ -26,7 +26,7 @@ docker-compose exec web python manage.py createsuperuser
 **You can log in there:**
 http://localhost/admin/
 
-# Tamplate for env-file
+# Template for env-file
 For correct functionality of Docker following data is needed:
 
 1. DB_ENGINE - in our case this is postgresql (default: django.db.backends.postgresql)
